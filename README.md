@@ -1,4 +1,4 @@
-# Image-Processing-Projects-
+# Image-Processing-Projects
 
 Some interesting projects in Matlab to start with Image Processing:
 
